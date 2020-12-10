@@ -1,4 +1,4 @@
-numbers = open("day-one-input.txt", "r").readlines()
+numbers = open("1\day-one-input.txt", "r").readlines()
 
 for n in numbers:
     for nn in numbers:
